@@ -18,37 +18,37 @@ script = ExtResource("1_cbdga")
 script = ExtResource("2_nuuxv")
 
 [node name="Sprite2D" type="Sprite2D" parent="Sky"]
-position = Vector2(549.5, 215.5)
-scale = Vector2(0.867361, 1.325)
+position = Vector2(792.5, 88.5)
+scale = Vector2(1.56042, 2.03056)
 texture = ExtResource("1_3quhi")
 
 [node name="Cloud" type="ParallaxLayer" parent="."]
 script = ExtResource("4_hrc1t")
 
 [node name="Sprite2D" type="Sprite2D" parent="Cloud"]
-position = Vector2(552, 238)
-scale = Vector2(0.863889, 0.886111)
+position = Vector2(794, 238)
+scale = Vector2(1.55556, 0.886111)
 texture = ExtResource("3_t7pho")
 
 [node name="Mount" type="ParallaxLayer" parent="."]
 script = ExtResource("6_0uw8i")
 
 [node name="Sprite2D" type="Sprite2D" parent="Mount"]
-position = Vector2(546.5, 316)
-scale = Vector2(0.861806, 1.11667)
+position = Vector2(794.5, 316)
+scale = Vector2(1.55625, 1.11667)
 texture = ExtResource("4_yn68l")
 
 [node name="Forest" type="ParallaxLayer" parent="."]
 script = ExtResource("8_g0jq7")
 
 [node name="Sprite2D" type="Sprite2D" parent="Forest"]
-position = Vector2(635, 299.75)
-scale = Vector2(0.986111, 1.21806)
+position = Vector2(923, 299.75)
+scale = Vector2(1.38611, 1.21806)
 texture = ExtResource("5_2qbq5")
 
 [node name="Hutan" type="ParallaxLayer" parent="."]
 
 [node name="Sprite2D" type="Sprite2D" parent="Hutan"]
-position = Vector2(922.5, 374)
-scale = Vector2(1.38542, 1.19531)
+position = Vector2(798.5, 374)
+scale = Vector2(1.55764, 1.19531)
 texture = ExtResource("6_0g3f1")
